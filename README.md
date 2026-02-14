@@ -74,7 +74,6 @@ Extreme-Dodge-VB-Python/
 ├── frmMain.vb           # VB.NET main form
 ├── frmMain.Designer.vb  # VB.NET form designer code
 ├── Essentials.vb        # VB.NET game utilities and classes
-├── ExtremeDodge.html    # Original HTML5 version
 └── README.md            # This documentation file
 ```
 
